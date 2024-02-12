@@ -1,2 +1,2 @@
-# ContentManager
- Code sample
+# Code samples
+ Code samples
