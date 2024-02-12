@@ -32,7 +32,7 @@ namespace DefaultNamespace
         }
 
         #endregion
-        
+
         #region Private Methods
 
         private async UniTask InitializeAddressable()
